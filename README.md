@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0.0-blue?style=flat-square" alt="Version 2.0.0" />
+  <img src="https://img.shields.io/badge/Version-2.1.0-blue?style=flat-square" alt="Version 2.1.0" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-emerald?style=flat-square" alt="Windows and macOS" />
-  <img src="https://img.shields.io/badge/License-Sportsframe%20Official-amber?style=flat-square" alt="Official License" />
   <img src="https://img.shields.io/badge/Architecture-x64%20%7C%20Apple%20Silicon-purple?style=flat-square" alt="Arch" />
 </p>
 
@@ -19,13 +18,9 @@
 
 ## 📥 Unduh Versi Terbaru (v2.0.0)
 
-Pilih installer sesuai sistem operasi Anda di tab **[Releases](https://github.com/frryk/uploader-release/releases)**:
+Pilih installer sesuai sistem operasi Anda di tab **[Releases](https://github.com/frryk/uploader-release/releases)**
 
-| Sistem Operasi | Format | Status | Keterangan |
-| :--- | :--- | :--- | :--- |
-| **Windows 10 / 11 (64-bit)** | [**Portable (.zip)**](Sportsframe.Auto.Uploader-2.0.0-win.zip) | ⭐ **Sangat Direkomendasikan** | *Ekstrak langsung pakai, bebas instalasi & tanpa izin admin.* |
-| **Windows 10 / 11 (64-bit)** | [**Setup (.exe)**](Sportsframe.Auto.Uploader-2.0.0-setup.exe) | Standar Installer | *Installer wizard dengan shortcut Desktop.* |
-| **macOS (Intel / Apple Silicon)** | [**Installer (.dmg)**](Sportsframe.Auto.Uploader-2.0.0.dmg) | macOS Universal | *Drag-and-drop ke folder Applications.* |
+### Support di **Windows** dan **MacOS**
 
 ---
 
