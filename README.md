@@ -1,7 +1,7 @@
 # ⚡ Sportsframe Auto Uploader
 
 <p align="center">
-  <img src="https://sportsframe.pages.dev/assets/logo.png" alt="Sportsframe Logo" width="90" style="border-radius: 16px;" />
+  <img src="https://sportsframe.pages.dev/sportframe.png" alt="Sportsframe Logo" width="90" style="border-radius: 16px;" />
 </p>
 
 <p align="center">
