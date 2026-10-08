@@ -1,4 +1,4 @@
-# ⚡ Sportsframe Auto Uploader
+# Sportsframe Auto Uploader
 
 <p align="center">
   <img src="https://sportsframe.pages.dev/sportframe.png" alt="Sportsframe Logo" width="90" style="border-radius: 16px;" />
@@ -19,13 +19,13 @@
 
 ## 📥 Unduh Versi Terbaru (v2.0.0)
 
-Pilih installer sesuai sistem operasi Anda di tab **[Releases](https://github.com/USERNAME/REPO_NAME/releases/latest)**:
+Pilih installer sesuai sistem operasi Anda di tab **[Releases](https://github.com/frryk/uploader-release/releases)**:
 
 | Sistem Operasi | Format | Status | Keterangan |
 | :--- | :--- | :--- | :--- |
-| **Windows 10 / 11 (64-bit)** | 📦 [**Portable (.zip)**](https://github.com/USERNAME/REPO_NAME/releases/latest) | ⭐ **Sangat Direkomendasikan** | *Ekstrak langsung pakai, bebas instalasi & tanpa izin admin.* |
-| **Windows 10 / 11 (64-bit)** | 💿 [**Setup (.exe)**](https://github.com/USERNAME/REPO_NAME/releases/latest) | Standar Installer | *Installer wizard dengan shortcut Desktop.* |
-| **macOS (Intel / Apple Silicon)** | 🍏 [**Installer (.dmg)**](https://github.com/USERNAME/REPO_NAME/releases/latest) | macOS Universal | *Drag-and-drop ke folder Applications.* |
+| **Windows 10 / 11 (64-bit)** | [**Portable (.zip)**](Sportsframe.Auto.Uploader-2.0.0-win.zip) | ⭐ **Sangat Direkomendasikan** | *Ekstrak langsung pakai, bebas instalasi & tanpa izin admin.* |
+| **Windows 10 / 11 (64-bit)** | [**Setup (.exe)**](Sportsframe.Auto.Uploader-2.0.0-setup.exe) | Standar Installer | *Installer wizard dengan shortcut Desktop.* |
+| **macOS (Intel / Apple Silicon)** | [**Installer (.dmg)**](Sportsframe.Auto.Uploader-2.0.0.dmg) | macOS Universal | *Drag-and-drop ke folder Applications.* |
 
 ---
 
