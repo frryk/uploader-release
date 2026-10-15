@@ -16,7 +16,7 @@
 
 ---
 
-## 📥 Unduh Versi Terbaru (v2.2.3)
+## 📥 Unduh Versi Terbaru (v2.2.5)
 
 Pilih installer sesuai sistem operasi Anda di tab **[Releases](https://github.com/frryk/uploader-release/releases)**
 
