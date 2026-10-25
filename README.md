@@ -17,7 +17,7 @@
 
 ---
 
-## 📥 Unduh Versi Terbaru (v2.3.0)
+## 📥 Unduh Versi Terbaru (v2.3.1)
 
 Unduh paket rilis resmi sesuai sistem operasi perangkat Anda di tab **[Releases](https://github.com/frryk/uploader-release/releases)**.
 
