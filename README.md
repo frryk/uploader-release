@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Otomasi Pengunggahan Foto, Live Tethering Kamera & Auto LUT Tone Grading untuk Fotografer Olahraga</strong>
+  <strong>Aplikasi Uploader: Live Tethering Kamera, Auto LUT Tone Grading & Upload Otomatis Foto Olahraga</strong>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Unduh paket rilis resmi sesuai sistem operasi perangkat Anda di tab **[Releases]
 ### 1. ⚡ Direct Wi-Fi FTP Live Tethering & USB Hot Folder
 * **Server FTP Lokal Bawaan (Port 2121):** Kamera langsung mengirim file foto ke laptop secara nirkabel saat shutter ditekan.
 * **Mendukung Ragam Kamera Utama:** Panduan konfigurasi interaktif 3 kolom untuk **Sony**, **Nikon**, dan **Canon**.
-* **Auto-Compress & Auto-Upload:** Foto langsung dikompresi sesuai rasio optimal dan diunggah ke FotoTree event secara *real-time*.
+* **Auto-Compress & Auto-Upload:** Foto langsung dikompresi sesuai rasio optimal untuk upload otomatis ke galeri FotoTree FotoYu secara *real-time*.
 
 ### 2. 🎨 LUT Editor & Auto Tone Grading (Fitur Baru v2.3.0)
 * **Impor Preset .XMP & .DNG:** Dukungan impor preset Lightroom kustom untuk diaplikasikan otomatis pada setiap foto yang diunggah.
@@ -44,19 +44,23 @@ Unduh paket rilis resmi sesuai sistem operasi perangkat Anda di tab **[Releases]
 * **Interactive Before/After Split:** Pratinjau split slider responsif 60 FPS dengan orientasi potret dan lanskap otomatis.
 
 ### 3. 📁 Batch Folder Upload Cerdas
-* Pindai ribuan foto JPG/PNG dari kartu memori atau folder harddisk dalam hitungan detik.
+* Solusi uploader FotoYu untuk memindai ribuan foto JPG/PNG dari kartu memori atau folder harddisk dalam hitungan detik.
 * **Filter Urutan Foto:** Fleksibilitas memilih rentang foto tertentu (contoh: urutan `001 - 300` atau `500 - 800`).
 * **Timestamp EXIF Asli:** Pilihan mempertahankan waktu jepret asli dari metadata kamera atau menggunakan waktu unggah.
 * **Multi-Thread Upload:** Pengunggahan kelompok foto paralel yang stabil dan minim latensi jaringan.
 
 ### 4. 🔍 Integrasi FotoTree & Multi-Akun Kreator
 * Cari dan pilih FotoTree event langsung dari aplikasi tanpa perlu membuka browser.
-* Manajemen multi-akun kreator dengan perpindahan akun instan.
+* Manajemen multi-akun kreator FotoYu secara terpadu dengan perpindahan akun instan.
 * Pantau total perolehan daun (*leaves*) dan statistik foto terjual secara transparan.
 
 ### 5. 🔒 Lisensi 1-Device Terproteksi
 * Sistem verifikasi lisensi terikat identitas unik perangkat (*hardware fingerprint*).
 * Mode toleransi offline yang tetap mengizinkan pengunggahan jika koneksi internet event tidak stabil.
+
+### 6. ⚡ Hot Folder Auto-Send Hi-Res (Fitur Baru v2.3.1)
+* Deteksi otomatis pesanan foto terjual yang menunggu file master Hi-Res (48 jam).
+* Menjalankan proses upload otomatis file Hi-Res FotoYu langsung dari folder lokal dengan penerapan koreksi tone warna LUT.
 
 ---
 
